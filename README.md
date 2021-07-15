@@ -1,20 +1,20 @@
-# Sistema gesti髇 de pedidos del centro log韘tico
+# Sistema gesti贸n de pedidos del centro log铆stico
 ## Freshly Cosmetics
 
-Esta aplicaci髇 consiste en una herramienta para que el personal del centro log韘tico puedan gestionar de forma 醙il la preparaci髇 de pedidos que se realizan en el ecommerce de Freshly Cosmetics
+Esta aplicaci贸n consiste en una herramienta para que el personal del centro log铆stico pueda gestionar de forma 谩gil la preparaci贸n de pedidos que se realizan en el ecommerce de Freshly Cosmetics
 
 ## Funcionalidades
 
 - Listado de todos los pedidos
 - La tabla permite filtrar y ordenar por una serie de campos
-- Actualizaci髇 de la tabla a tiempo real
+- Actualizaci贸n de la tabla a tiempo real
 - Por defecto, se muestran los pedidos en estado "Pago aceptado"
-- Visualizaci髇 pop-up de los detalles de cada pedido
+- Visualizaci贸n pop-up de los detalles de cada pedido
 - Cambiar el estado del pedido
 
-## Tecnolog韆
+## Tecnolog铆a
 
-Para llevar a cabo este proyecto se han utilizado las siguientes tecnolog韆s:
+Para llevar a cabo este proyecto se han utilizado las siguientes tecnolog铆as:
 
 - PHP 7.4
 - Bootstrap
