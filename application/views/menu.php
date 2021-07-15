@@ -72,7 +72,7 @@
              </li>
              <li class="profile">
                  <div class="profile-details">
-                  	<img src="assets/img/profile.jpg" alt="profileImg">
+                  	<img src="assets/img/profile.png" alt="profileImg">
                    	<div class="name_job">
                      	<div class="name"><?php echo utf8_encode('Alícia Audí')?></div>
                      	<div class="job">Developer Specialist</div>
